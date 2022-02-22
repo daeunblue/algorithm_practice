@@ -29,9 +29,9 @@ public class BOJ_S1_1497_기타콘서트 {
 		
 		for(int i=0; i<N; i++) {	// 총 N개의 기타
 			st = new StringTokenizer(br.readLine());
-			hmap.put(st.nextToken(), st.nextToken());
+//			hmap.put(st.nextToken(), st.nextToken());
 		}
-		System.out.println(hmap.toString());
+//		System.out.println(hmap.toString());
 		
 		// 1곡 조차 연주 불가능하다면 -1 출력
 		if(maxSong == -1) {
