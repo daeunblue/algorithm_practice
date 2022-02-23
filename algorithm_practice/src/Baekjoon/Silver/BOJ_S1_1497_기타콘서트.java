@@ -44,7 +44,6 @@ public class BOJ_S1_1497_기타콘서트 {
 			for(int i=0; i<N; i++) {
 				if(isSelectedGuitar[i]) {	// 선택된 기타의 연주 가능 곡 추가하기
 					for(int k=0; i<M; k++) {
-						if))
 					}
 				}	
 			}
