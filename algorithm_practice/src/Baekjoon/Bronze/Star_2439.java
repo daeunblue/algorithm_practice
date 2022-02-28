@@ -1,4 +1,4 @@
-package Baekjoon.Bronze.Implementation;
+package Baekjoon.Bronze;
 import java.io.*;
 
 public class Star_2439 {
