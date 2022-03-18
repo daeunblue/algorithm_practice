@@ -13,6 +13,7 @@ public class 백준_B5_ABAll {
 		int B = Integer.parseInt(st.nextToken());
 		sb.append(A+B+"\n");
 		sb.append(A-B+"\n");
+		sb.append(A*B+"\n");
 		sb.append(A/B+"\n");
 		sb.append(A%B+"\n");
 		
